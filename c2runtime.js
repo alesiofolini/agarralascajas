@@ -27178,6 +27178,7 @@ cr.getObjectRefTable = function () {
 		cr.system_object.prototype.acts.CreateObject,
 		cr.system_object.prototype.exps.originalviewportwidth,
 		cr.plugins_.Sprite.prototype.exps.Width,
+		cr.behaviors.Bullet.prototype.acts.SetGravity,
 		cr.plugins_.Touch.prototype.cnds.OnTouchObject,
 		cr.plugins_.Sprite.prototype.acts.Destroy,
 		cr.system_object.prototype.acts.SetVar,
